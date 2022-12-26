@@ -1,4 +1,4 @@
-# PAKA-Product-Card
+# kapa-Product-Card
 
 Product library for testing purposes
 
