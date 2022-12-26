@@ -46,6 +46,16 @@
       "limit": "10 KB"
     }
   ],
+  "repository": {
+    "url": "https://github.com/pablolopezj/kapa-product-card",
+    "type": "git"
+  },
+  "keywords": [
+    "product",
+    "kard",
+    "pablo",
+    "lópez"
+  ],
   "devDependencies": {
     "@rollup/plugin-image": "^3.0.1",
     "@size-limit/preset-small-lib": "^8.1.0",
